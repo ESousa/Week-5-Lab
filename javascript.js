@@ -1,9 +1,9 @@
-<script type="text/javascript" src="jquery.js"></script>
 
 
 
 
-				<script>
+
+			
 
 
 					$("#nav1,#nav2,#nav3,#nav4").addClass("contentBox");
@@ -78,4 +78,4 @@
 
 
 
-		</script>
+		
